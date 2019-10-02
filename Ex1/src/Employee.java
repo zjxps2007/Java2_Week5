@@ -35,4 +35,4 @@ public class Employee {
         System.out.println(e2);
         System.out.println("총 직원 수: " + Employee.getPerson());
     }
-} 
+}
